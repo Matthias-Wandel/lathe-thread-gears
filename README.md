@@ -51,7 +51,7 @@ threads.
 <br clear=left>
 <h1>Trying all gear combinations</h1>
 
-<iframe class="yt"src="https://youtube.com/embed/sYw7OfeC1b8" allowfullscreen></iframe>
+<iframe width="960" height="540" src="https://www.youtube.com/embed/sYw7OfeC1b8?si=xhbkrS43KqEIRujj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <p>
 
 To figure out what the <i>best</i> gears are for different pitches, I figured
