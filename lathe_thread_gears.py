@@ -1,5 +1,5 @@
 # Program for working out gear ratios to hit specific pitches
-# on my vevor mini lathe.
+# on my Vevor mini lathe.
 # Matthias Wandel Dec 30 2023 - Mar 19 2024
 #
 # The way I use this is:
@@ -28,7 +28,7 @@ else:
 leadscrew_pitch = 2
 
 # My Vevor lathe has five gears that can be swapped.
-# For many lathes, the inermediate post 2 has fixed gearing to spindle, so
+# For many lathes, the inermediate post 2 has fixed gearing to the spindle, so
 # only gears 0-3 can be changed, but on this one I can swap five gears (0 to 4)
 #
 #  +--+------+
