@@ -1,34 +1,7 @@
-<html><head>
-<style type=text/css>
-body { font-family: sans-serif; font-size: 16px; 
-    max-width:1160px; min-width:500px; margin: auto; padding-left:8px; padding-right:4px;}
-
-h1.sh {margin-bottom:2px;}
-h2 {margin-top:35px;}
-
-p.wp {clear:left; min-width:500px;} /* Paragraph with picture */
-p.wp {margin-left:0px;}
-
-img { margin-bottom: 5px; margin-right: 5px;}
-
-img.l_narrow { float:left; margin-right: 20px; margin-bottom:15px; }
-img.l { float:left; margin-right: 20px; margin-bottom:15px; }
-@media (max-width: 750px) { img.l { display: block; float:none;} }
-
-img.r { float: right; clear:right; margin-bottom:15px; margin-top:5px;
-margin-left: 8px; padding-right:2px; margin-right:0px;}
-
-
-iframe.yt { width:calc(100vw - 32px); max-width:1150px; min-width:500px;
-          height:calc(56.4vw - 18px); max-height:646px; min-height:281; border:0;}
-
-
-</style>
-<title>Mini lathe abritrary thread gearing calculator</title>
-</head>
-<body>
-<h1>Mini lathe abritrary thread gearing calculator</h1>
-<img class="l" src="img/18tpi_gears.jpg" align=left>
+<html>
+<body style="font-family: sans-serif; font-size: 16px;">
+<h1>Mini lathe arbritrary thread gearing calculator</h1>
+<img style="float:left; margin-right: 20px; margin-bottom:15px;" src="img/18tpi_gears.jpg" >
 On cheap mini lathes, for threading different pitches of gears, rather than
 having a gearbox with some gear selector, one has to place different gears
 on posts on the lathe to gear reduce from the lathe's spindle onto the lead
@@ -107,7 +80,7 @@ Total gear combinations (including duplicates): 1876
 Total gear ratios: 373
 </pre>
 <p>
-The frist actual output line from above would be this:
+The first actual output line from above would be this:
 <pre>12.9352,  20,  Any,Any,   24, 66,  E=-0.498%</pre>
 This indicates:
 <table cellpadding=5 border=1 cellspacing=0>
@@ -124,8 +97,8 @@ The script prints the best combination it can find on either side
 of the target gear ratios.  It omits gear combinations that:
 <ul><li>Would cause interference between gears
 <li>Would not reach the spindle
-<li>Would not fit on the tiltable mounting bar
-<li>would not allow the housing to be closed
+<li>Would not fit on the tilt-able mounting bar
+<li>Would not allow the housing to be closed
 </ul>
 However, the checks are rudimentary so just because it passed a combination
 as valid, doesn't guarantee that it will fit.  Your lathe may of course have
