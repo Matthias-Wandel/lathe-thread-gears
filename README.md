@@ -1,6 +1,6 @@
 # Mini lathe arbritrary thread gearing calculator
 
-![](img/18tpi_gears.jpg){style="float:left; margin-right: 20px; margin-bottom:15px;"}
+![](img/18tpi_gears.jpg)
 
 On cheap mini lathes, for threading different pitches of gears, rather
 than having a gearbox with some gear selector, one has to place
