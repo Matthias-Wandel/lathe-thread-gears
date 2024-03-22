@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+#
 # Program for working out gear ratios to hit specific pitches
 # on my Vevor mini lathe.
 # Matthias Wandel Dec 30 2023 - Mar 19 2024
