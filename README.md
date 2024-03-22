@@ -110,3 +110,7 @@ the criteria may need adapting to your lathe.
 The program is command line based and written in Python. Some
 familiarity with the command line and Python *are* necessary to use
 this script.
+
+For those who insist on a "license" for this script, consider it GPL v2
+licensed.  Won't include the file here, its ridiculous to have a license
+bigger than the program!
