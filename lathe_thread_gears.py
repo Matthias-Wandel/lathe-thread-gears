@@ -4,7 +4,7 @@
 #
 # The way I use this is:
 #
-# Targets are shwon with a dashed line, combination above and below that are
+# Targets are shown with a dashed line, combination above and below that are
 # either side of the target MM pitch or TPI
 import sys
 
